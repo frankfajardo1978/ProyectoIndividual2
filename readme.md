@@ -1,3 +1,10 @@
+
+
+
+![6380959-removebg-preview (1)](https://github.com/user-attachments/assets/cc45eeb2-37ea-4ad1-b2c0-cac0f2cafb5a)
+
+
+
 # PROYECTO INDIVIDUAL NRO 2
 
 En el sector de las telecomunicaciones, el manejo estratégico de los datos es clave para mantenerse competitivo en un mercado en constante evolución. Este proyecto tiene como objetivo principal identificar nuevas oportunidades de negocio a través del análisis exploratorio de datos (EDA) y la creación de un dashboard interactivo en Power BI.
