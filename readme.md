@@ -17,7 +17,62 @@ En el repositorio se encuentra un archivo EDA, https://github.com/frankfajardo19
 
 De igual manera se encuentra el Dashboard https://github.com/frankfajardo1978/Proyectoindividual2/blob/main/Dashboard%20P2.pbix donde se aborda el KPI propuesto y un KPI adicional (Velocidad Promedio de Conexión cuyo objetivo es incrementar la velocidad de conexion en la poblacion un 2%) , y el Dashboard como tal se centra en el insight hallado con respecto a la migracion de planes de velocidades.
 
-Espero que este trabajo exploratorio sea del agrado de la audiencia.
+## STORYTELLING
+
+Estrategia por Etapas
+Etapa 1: Preparación e Infraestructura (0-6 meses)
+Objetivo: Establecer bases para alcanzar el KPI de velocidad promedio.
+•	Datos Clave:
+o	Buenos Aires tiene 1.3 millones de accesos en 1-6 Mbps, mientras que Córdoba alcanza 270 mil.
+o	Necesitamos actualizar redes en provincias clave para soportar velocidades superiores.
+Acción:
+•	Reforzar infraestructura en áreas de alta densidad y baja velocidad.
+•	Definir estrategias locales para cerrar la brecha de 1.96 Mbps respecto al objetivo.
+________________________________________
+Etapa 2: Migración de Usuarios (6-18 meses)
+Objetivo: Aumentar el ARPU y migrar usuarios a planes superiores.
+•	KPI a Monitorear: Incrementar la velocidad ponderada trimestre a trimestre.
+•	Datos Clave:
+o	Capital Federal tiene 420 mil usuarios entre 6-10 Mbps, mostrando predisposición al cambio.
+o	En Buenos Aires y Córdoba, 500 mil usuarios combinados pueden moverse hacia velocidades de 10-30 Mbps.
+Acción:
+•	Ofrecer promociones y campañas de educación sobre beneficios de mayor velocidad (teletrabajo, streaming).
+•	Implementar estrategias segmentadas por provincia para maximizar el impacto.
+________________________________________
+Etapa 3: Consolidación y Escalamiento (18-36 meses)
+Objetivo: Superar el KPI objetivo de 68.80 Mbps y posicionar la red como líder en calidad.
+•	KPI a Monitorear: Mantener incrementos de velocidad promedio superiores al 2% anual.
+•	Datos Clave:
+o	Más de 8 millones de accesos en rangos superiores a 30 Mbps son alcanzables con una estrategia sólida.
+o	Provincias con baja penetración (Chaco, Catamarca) representan nuevos mercados para consolidar crecimiento.
+Acción:
+•	Expandir redes hacia provincias con menor infraestructura.
+•	Introducir planes premium para fidelizar a usuarios avanzados.
+________________________________________
+Conclusión: El Potencial Transformador de la Inversión
+Este plan no solo permitirá alcanzar, sino también superar el objetivo actual de 68.80 Mbps de velocidad promedio ponderada. Con un enfoque estratégico por etapas, lograremos cerrar la brecha de 1.96 Mbps y posicionaremos a Argentina como líder en conectividad digital. ¡Es el momento de apostar por un futuro más conectado!
+o	Ofrecer descuentos iniciales o bonificaciones por migración a velocidades superiores.
+Resultado esperado: Incremento del 15-20% en la base de usuarios con velocidades superiores, impactando directamente en ingresos promedio.
+________________________________________
+Etapa 3: Consolidación y Escalamiento (18-36 meses)
+Objetivo: Establecer una base sólida de clientes con velocidades altas y expandirse a nuevas regiones.
+•	Datos Clave:
+o	Más de 8 millones de accesos totales están ya en rangos superiores a 30 Mbps a nivel nacional, pero están concentrados en pocas provincias.
+o	Provincias con bajas penetraciones, como Chaco (44 accesos por cada 100 hogares), representan mercados a desarrollar.
+•	Acción:
+o	Reinvertir ingresos para expandir infraestructura en provincias con baja penetración.
+o	Implementar planes más accesibles para incluir a nuevos usuarios y fidelizar a clientes actuales.
+Resultado esperado:
+•	Incremento del 25% en el mercado total de internet, con ingresos diversificados a nivel nacional.
+•	Posicionamiento de la compañía como líder en conectividad de alta velocidad en Argentina.
+________________________________________
+Una Inversión Estratégica con Impacto Escalable
+Basado en los datos actuales, la oportunidad de transformar la conectividad en Argentina es clara. Con un enfoque por etapas, la inversión en internet puede no solo cerrar la brecha digital, sino también maximizar retornos para los inversionistas. ¡Construyamos juntos el futuro de la conectividad argentina!
+
+
+
+
+Sin mas, espero que este trabajo exploratorio sea del agrado de la audiencia.
 
 Cordialmente
 
